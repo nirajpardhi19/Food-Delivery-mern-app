@@ -2,6 +2,7 @@
 Buy food and vegitable online app
 Build a COMPLETE Fullstack Buy food and vegitable online app Responsive MERN App | React, Redux, Nodejs, MongoDB, Express
 
+my Vercel Link : https://food-delivery-mern-app-psi.vercel.app
 Backend Environment variables :
 
 MONGODB_URL : "" ,
